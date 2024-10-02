@@ -2,7 +2,7 @@ import numpy as np
 
 
 def new_func():
-    msg = "hello jinling!"
+    msg = "hello shaofeng!"
     return msg
 
 
