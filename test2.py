@@ -1,3 +1,3 @@
-def new_func1():
-    msg = "hello fun1!"
+def new_func2():
+    msg = "hello fun2!"
     return msg
