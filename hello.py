@@ -2,7 +2,7 @@ import numpy as np
 
 
 def new_func():
-    msg = "Roll a dice!"
+    msg = "hello jinling!"
     return msg
 
 
