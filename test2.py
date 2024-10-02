@@ -1,3 +1,3 @@
 def new_func2():
-    msg = "hello fun2!"
-    return msg
+    mymsg = "hello fun2!"
+    return mymsg
